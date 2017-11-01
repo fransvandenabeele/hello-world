@@ -1,2 +1,2 @@
 # hello-world
-Eerste test met Git
+Eerste test met GitHub
